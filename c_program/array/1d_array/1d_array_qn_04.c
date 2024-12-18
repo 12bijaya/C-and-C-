@@ -22,7 +22,7 @@ int main(){
             }
         }
     }
-    printf("The ascendiong order of the data you inputed is:\n");
+    printf("The descendiong order of the data you inputed is:\n");
     for(i=0;i<n;i++){
         printf("%d\t",inter[i]);
     }

@@ -1,3 +1,6 @@
+// WAP to display the multiplication table as follows when a number is given
+//  (here num=4)
+//Bijaya Kumal
 #include<stdio.h>
 int main(){
     int num,i,j;

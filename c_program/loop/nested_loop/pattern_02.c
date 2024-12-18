@@ -1,3 +1,4 @@
+//Bijaya Kumal
 #include<stdio.h>
 int main(){
     int i,j;
@@ -8,3 +9,4 @@ int main(){
         printf("\n\n");
     }
 }
+//Bijaya Kumal
