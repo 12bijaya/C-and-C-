@@ -1,3 +1,4 @@
+//WAF to print prime numbers
 #include<iostream>
 using namespace std;
 bool check_prime(int n){

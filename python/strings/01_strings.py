@@ -1,0 +1,10 @@
+a="ram"
+b='''hari
+is
+boy'''
+print(f"{a,b}\n{b}")
+print('''
+ram 
+is 
+boy
+''')
