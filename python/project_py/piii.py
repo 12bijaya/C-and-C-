@@ -16,7 +16,7 @@ def block_signals():
 
 def get_default_shell():
     """Get the default shell of the system."""
-    # Check common shell paths
+    # Check common shell path
     shells = ["/bin/bash", "/bin/sh", "/bin/zsh", "/bin/dash", "/bin/ksh"]
     for shell in shells:
         if os.path.exists(shell):
